@@ -7,6 +7,7 @@ public class File {
 		
 		fa.display();
 		System.out.println("this is File display");
+		System.out.println("new edit");
 		
 
 	}
